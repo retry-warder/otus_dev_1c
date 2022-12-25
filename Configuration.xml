@@ -238,6 +238,7 @@
 			<Catalog>Подразделения</Catalog>
 			<Catalog>Склады</Catalog>
 			<Catalog>Разработчики</Catalog>
+			<Catalog>Справочник1</Catalog>
 			<Document>ПриходнаяНакладная</Document>
 			<Document>РасходнаяНакладная</Document>
 			<Document>НачислениеЗарплаты</Document>

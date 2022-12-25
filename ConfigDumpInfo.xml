@@ -19,6 +19,9 @@
 		<Metadata name="Catalog.Подразделения.Predefined" id="0ae5fb09-efcf-475c-814b-ece12f1c6072.1c" configVersion="7ca010d091af2b4e9a5df2b557983de800000000"/>
 		<Metadata name="Catalog.Разработчики" id="9b4695c2-c54a-4293-ad7b-2555e1dab911" configVersion="70649c4ec522ac41a6740b3d84b3c56700000000"/>
 		<Metadata name="Catalog.Склады" id="54b0b644-ae62-4796-8ed7-d2fe88201c66" configVersion="f2ca49b4afde9a49a1c3b2db124eae4800000000"/>
+		<Metadata name="Catalog.Справочник1" id="d60423ee-c210-4228-9f5e-4493f9d0e7d6" configVersion="f6146dfd146b3e4d96d459d70ab7e24800000000">
+			<Metadata name="Catalog.Справочник1.Attribute.Реквизит1" id="a5a4e6d6-0ab8-41e5-bd1e-8a639729efd0"/>
+		</Metadata>
 		<Metadata name="Catalog.ФизическиеЛица" id="c5838cc9-53d7-46b5-9781-2a7577a974d0" configVersion="6b8745178d560d43baa4cc0b72cfd36900000000"/>
 		<Metadata name="Catalog.ФизическиеЛица.Predefined" id="c5838cc9-53d7-46b5-9781-2a7577a974d0.1c" configVersion="507ec3cf0e5761479230ae640f44e53900000000"/>
 		<Metadata name="ChartOfAccounts.Управленческий" id="abacccce-81d4-4793-85ed-49b891ca04d1" configVersion="3ed1e74f6986d242a494731b2d4e3e9000000000"/>
@@ -42,7 +45,7 @@
 		<Metadata name="CommonPicture.Расчеты.Picture" id="e2b6e1fc-68c0-46ad-836a-eff575c657db.0" configVersion="f5fbf2e4f59add49ade0b6ce20b6ef9400000000"/>
 		<Metadata name="CommonPicture.Сервис" id="80c9a300-d705-420a-951e-7375284be4b2" configVersion="6f0d12e5efbedf439b7b1c2884f6344b00000000"/>
 		<Metadata name="CommonPicture.Сервис.Picture" id="80c9a300-d705-420a-951e-7375284be4b2.0" configVersion="f16fef8187054c408480f97cc27e95c000000000"/>
-		<Metadata name="Configuration.Student2_HW_001_BASE" id="a92cebe9-4e30-4901-842c-b1cc1d0adc9a" configVersion="ea1e288c10fa964f923fe2d447e69d8d00000000"/>
+		<Metadata name="Configuration.Student2_HW_001_BASE" id="a92cebe9-4e30-4901-842c-b1cc1d0adc9a" configVersion="90a6fc152eef5640b3cb1340f84ad41a00000000"/>
 		<Metadata name="Configuration.Student2_HW_001_BASE.ClientApplicationInterface" id="a0068262-10a0-4841-82b6-f6e35a7fc312.b" configVersion="78196c097a1bd045a6fa991923e08ca500000000"/>
 		<Metadata name="Configuration.Student2_HW_001_BASE.CommandInterface" id="a0068262-10a0-4841-82b6-f6e35a7fc312.a" configVersion="629e1b6a5f458f4aa15ac230329a89dc00000000"/>
 		<Metadata name="DataProcessor.ЗаполнениеГрафика" id="7cae0bec-65db-42b0-87ab-f27d91394d1b" configVersion="4dbb03d7a8d82547ad2dbac62758c37600000000"/>
