@@ -19,7 +19,8 @@
 		<Metadata name="Catalog.Подразделения.Predefined" id="0ae5fb09-efcf-475c-814b-ece12f1c6072.1c" configVersion="7ca010d091af2b4e9a5df2b557983de800000000"/>
 		<Metadata name="Catalog.Разработчики" id="9b4695c2-c54a-4293-ad7b-2555e1dab911" configVersion="70649c4ec522ac41a6740b3d84b3c56700000000"/>
 		<Metadata name="Catalog.Склады" id="54b0b644-ae62-4796-8ed7-d2fe88201c66" configVersion="f2ca49b4afde9a49a1c3b2db124eae4800000000"/>
-		<Metadata name="Catalog.Справочник1" id="d60423ee-c210-4228-9f5e-4493f9d0e7d6" configVersion="6f6cde1cdbefd349bc17c3d225693ef000000000">
+		<Metadata name="Catalog.Справочник1" id="d60423ee-c210-4228-9f5e-4493f9d0e7d6" configVersion="71b4ca07e390414399a43b46822801ee00000000">
+			<Metadata name="Catalog.Справочник1.Attribute.Реквизит3" id="89840467-3e8d-49ab-bb22-6c61c46c966e"/>
 			<Metadata name="Catalog.Справочник1.Attribute.Реквизит1" id="a5a4e6d6-0ab8-41e5-bd1e-8a639729efd0"/>
 			<Metadata name="Catalog.Справочник1.Attribute.Реквизит2" id="cd83ee73-79c4-4b92-8a82-147ff00c7acb"/>
 		</Metadata>
