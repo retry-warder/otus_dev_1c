@@ -19,7 +19,8 @@
 		<Metadata name="Catalog.Подразделения.Predefined" id="0ae5fb09-efcf-475c-814b-ece12f1c6072.1c" configVersion="7ca010d091af2b4e9a5df2b557983de800000000"/>
 		<Metadata name="Catalog.Разработчики" id="9b4695c2-c54a-4293-ad7b-2555e1dab911" configVersion="70649c4ec522ac41a6740b3d84b3c56700000000"/>
 		<Metadata name="Catalog.Склады" id="54b0b644-ae62-4796-8ed7-d2fe88201c66" configVersion="f2ca49b4afde9a49a1c3b2db124eae4800000000"/>
-		<Metadata name="Catalog.Справочник1" id="d60423ee-c210-4228-9f5e-4493f9d0e7d6" configVersion="1d707bd23a663743a37262720dd5297200000000">
+		<Metadata name="Catalog.Справочник1" id="d60423ee-c210-4228-9f5e-4493f9d0e7d6" configVersion="4c3c9568632fe24783848e79945ce5a600000000">
+			<Metadata name="Catalog.Справочник1.Attribute.Реквизит5" id="0aa537da-3c59-49fc-9323-8a39fd359170"/>
 			<Metadata name="Catalog.Справочник1.Attribute.Реквизит4" id="33c17887-4952-4652-85f5-31b3cea2beca"/>
 			<Metadata name="Catalog.Справочник1.Attribute.Реквизит3" id="89840467-3e8d-49ab-bb22-6c61c46c966e"/>
 			<Metadata name="Catalog.Справочник1.Attribute.Реквизит1" id="a5a4e6d6-0ab8-41e5-bd1e-8a639729efd0"/>
